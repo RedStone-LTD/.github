@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-label="REDSTONE — Built on stone. Powered by signal.">
+<defs>
+  <radialGradient id="glow" cx="85%" cy="40%" r="80%"><stop stop-color="#55141c"/><stop offset="1" stop-color="#0a0405"/></radialGradient>
+  <linearGradient id="type" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff2ed"/><stop offset="1" stop-color="#ff464e"/></linearGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#ff656e" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1440" height="440" rx="20" fill="url(#glow)"/>
+<rect width="1440" height="440" rx="20" fill="url(#grid)"/>
+<path d="M40 72V40H72M1368 40H1400V72M40 368V400H72M1368 400H1400V368" fill="none" stroke="#a13740" stroke-width="2"/>
+<rect x="88" y="84" width="10" height="10" fill="#ff424f"/>
+<text x="116" y="95" fill="#d58b91" font-family="monospace" font-size="17" letter-spacing="4">PRIVATE COMPUTE FABRIC</text>
+<text x="80" y="242" fill="url(#type)" font-family="Inter,Helvetica,Arial,sans-serif" font-size="142" font-weight="800" letter-spacing="-7">REDSTONE</text>
+<text x="88" y="308" fill="#d6bdc0" font-family="Inter,Helvetica,Arial,sans-serif" font-size="28">Built on stone. Powered by signal.</text>
+<path d="M88 349H1352" stroke="#633038"/>
+<text x="88" y="380" fill="#a97c82" font-family="monospace" font-size="15" letter-spacing="2">SELF-HOSTED INFRASTRUCTURE</text>
+<text x="1352" y="380" text-anchor="end" fill="#f0858b" font-family="monospace" font-size="15" letter-spacing="2">REDSTONE.LTD</text>
+</svg>
